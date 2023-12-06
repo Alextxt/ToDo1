@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_data_here">Add data here</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="_3">3</string>
+    <string name="description_will_be_here">Description will be here</string>
+    <string name="number_will_be_here">Number will be here</string>
+    <string name="title_will_be_here">Title will be here</string>
+</resources>
